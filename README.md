@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## 在此仰望世界各地的代码大佬们, 并向所有开源项目及开发者致敬！
+
+![Stats](https://github-readme-stats.vercel.app/api?username=samshen1017&show_icons=true)
+
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=samshen1017&show_icons=true)
+
 <!--
 **samshen1017/samshen1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
